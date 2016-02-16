@@ -114,6 +114,7 @@ public class centerActivity extends baseFragment implements
 		case R.id.rbRelation:
 			refresh(fgs.get(3));
 		deafault:
+			String ss = null;
 			break;
 		}
 	}
