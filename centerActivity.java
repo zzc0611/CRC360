@@ -1,4 +1,4 @@
-package com.aibao.fragment;
+﻿package com.aibao.fragment;
 
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
@@ -113,6 +113,8 @@ public class centerActivity extends baseFragment implements
 			break;
 		case R.id.rbRelation:
 			refresh(fgs.get(3));
+		deafault:
+			break;
 		}
 	}
 
