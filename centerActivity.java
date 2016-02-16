@@ -154,6 +154,8 @@ public class centerActivity extends baseFragment implements
 		case R.id.ivPhoto:// TODO 添加图片
 			dialog.show();
 			break;
+			default:
+			break;
 		}
 
 	}
