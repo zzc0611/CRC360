@@ -26,7 +26,8 @@ import com.aibao.activitys.orderActivity;
 import com.aibao.activitys.settingActivity;
 import com.aibao.view.circleImage;
 import com.aibao.view.uploadPhotoDialog;
-
+/**
+*/
 public class centerActivity extends baseFragment implements
 		OnCheckedChangeListener, OnClickListener {
 	private circleImage ivPhoto;
